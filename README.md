@@ -1,6 +1,6 @@
 # 🚀 Impulso
 
-**Impulso** is a boutique consultancy focused on **Modern Workplace, Identity, and Security** — helping organizations move forward with clarity, control, and confidence.
+**Impulso** is a boutique consultancy focused on **Modern Workplace, Identity, and Security**, helping organizations move forward with clarity, control, and confidence.
 
 > **Controlled Momentum**  
 > Progress, without chaos.
