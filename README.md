@@ -22,7 +22,7 @@ The focus is on **real-world applicability**: solutions that scale, remain manag
 ## 👤 About the person behind Impulso
 
 Impulso is founded and led by **Jeroen Burgerhout** 
-**Microsoft Intune and Identity & Access MVP** and **Microsoft Certified Trainer (MCT)**, with a strong focus on the Microsoft Modern Workplace ecosystem.
+**Microsoft Intune MVP** and **Microsoft Certified Trainer (MCT)**, with a strong focus on the Microsoft Modern Workplace ecosystem.
 
 Jeroen works at the intersection of **strategy, architecture, and delivery**, combining advisory work with hands-on implementation and training.
 
